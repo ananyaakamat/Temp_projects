@@ -5,6 +5,7 @@ A Python toolkit for converting Excel data from decimal format to integer format
 ## Overview
 
 This project provides scripts to:
+
 - Convert numeric data in Excel sheets from decimal to integer format
 - Preserve missing data indicators (e.g., " --", "N/A") as empty cells
 - Maintain original headers and non-target data unchanged
@@ -20,12 +21,14 @@ This project provides scripts to:
 ## Files
 
 ### Core Scripts
+
 - `convert_to_numbers.py` - Main conversion script
 - `validate_conversion.py` - Basic validation comparing original vs converted
 - `detailed_analysis.py` - In-depth statistical analysis
 - `comprehensive_test.py` - Complete test suite
 
 ### Documentation
+
 - `README_Validation.md` - Detailed validation documentation
 - `README.md` - This file
 
@@ -38,11 +41,13 @@ openpyxl>=3.1.0
 ## Usage
 
 ### 1. Data Conversion
+
 ```python
 python convert_to_numbers.py
 ```
 
 ### 2. Validation
+
 ```python
 # Basic validation
 python validate_conversion.py
@@ -71,6 +76,7 @@ python comprehensive_test.py
 ## Validation Results
 
 All validation tests confirm:
+
 - ✅ 39,576 cells processed successfully
 - ✅ 18,577 numbers converted to integers
 - ✅ 20,999 missing data values preserved
