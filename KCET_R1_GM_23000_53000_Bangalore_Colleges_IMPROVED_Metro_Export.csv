@@ -1,0 +1,97 @@
+Sl No.,College Name,Course Name,GM,Nearest Metro Station,Distance from Metro (km)
+751,"E115 S J B Institute of Technology Kengeri,Bangalore",DS Comp. Sc. Engg- Data Sc.,23274.0,Mysuru Road,8.5
+1284,E212 Dayananda Sagar Academy of Technology Kanakapur Main Road Bangalore,"IC CS-IoT, Cyber Security",23290.0,Silk Institute,12.0
+659,E103 Global Academy of Technology Bangalore,CS Computers,23322.0,Mysuru Road,6.5
+1282,E212 Dayananda Sagar Academy of Technology Kanakapur Main Road Bangalore,EC Electronics,23550.0,Silk Institute,12.0
+1545,"E286 BGS College of Engineering and Technology Mahalakshmipuram,Bangalore",CS Computers,23568.0,Mahalakshmi,2.5
+127,"E012 Sir M.Visveswaraya Institute of Technology Hunasemaranahalli,Bangalore,",RI Robotics and AI,23652.0,Yelachenahalli,4.0
+503,E079 Acharya Institute of Technology Bangalore,AI Artificial Intelligence,23772.0,Sandal Soap Factory,8.0
+1276,E212 Dayananda Sagar Academy of Technology Kanakapur Main Road Bangalore,CD Computer Sc. and Design,23816.0,Silk Institute,12.0
+613,E097 C M R Institute of Technology Bangalore,EC Electronics,24004.0,Baiyappanahalli,18.0
+507,E079 Acharya Institute of Technology Bangalore,DS Comp. Sc. Engg- Data Sc.,24049.0,Sandal Soap Factory,8.0
+510,E079 Acharya Institute of Technology Bangalore,IE Info.Science,25054.0,Sandal Soap Factory,8.0
+123,"E012 Sir M.Visveswaraya Institute of Technology Hunasemaranahalli,Bangalore,",ES Electronics and Computer,25370.0,Yelachenahalli,4.0
+107,E011 M V J College of Engineering Bangalore,DS Comp. Sc. Engg- Data Sc.,25641.0,Mahalakshmi,2.5
+112,E011 M V J College of Engineering Bangalore,IE Info.Science,25977.0,Mahalakshmi,2.5
+928,E149 Cambridge Institutute of Technology Bangalore,CS Computers,26196.0,Mysuru Road,8.5
+11,E002 S K S J T Institute of Engineering. Bangalore,EC Electronics,26819.0,Mysuru Road,8.5
+656,E103 Global Academy of Technology Bangalore,AI Artificial Intelligence,27234.0,Mysuru Road,6.5
+662,E103 Global Academy of Technology Bangalore,IE Info.Science,27249.0,Mysuru Road,6.5
+654,E103 Global Academy of Technology Bangalore,"AD Artificial Intel, Data Sc",27983.0,Mysuru Road,6.5
+657,E103 Global Academy of Technology Bangalore,"CA CS (AI, Machine Learning)",28265.0,Mysuru Road,6.5
+508,E079 Acharya Institute of Technology Bangalore,EC Electronics,28374.0,Sandal Soap Factory,8.0
+752,"E115 S J B Institute of Technology Kengeri,Bangalore",EC Electronics,28866.0,Mysuru Road,8.5
+103,E011 M V J College of Engineering Bangalore,CD Computer Sc. and Design,28886.0,Mahalakshmi,2.5
+618,E098 Atria Institute of Technology Bangalore,CS Computers,29803.0,Mysuru Road,8.5
+926,E149 Cambridge Institutute of Technology Bangalore,AI Artificial Intelligence,30284.0,Mysuru Road,8.5
+496,E078 The Oxford College of Engineering Bangalore,CS Computers,30328.0,Mahalakshmi,2.5
+493,E078 The Oxford College of Engineering Bangalore,AI Artificial Intelligence,30566.0,Mahalakshmi,2.5
+565,E091 K S Institute of Technology Bangalore,CS Computers,31048.0,Mysuru Road,8.5
+109,E011 M V J College of Engineering Bangalore,EC Electronics,31195.0,Mahalakshmi,2.5
+929,E149 Cambridge Institutute of Technology Bangalore,DS Comp. Sc. Engg- Data Sc.,31379.0,Mysuru Road,8.5
+660,E103 Global Academy of Technology Bangalore,EC Electronics,32458.0,Mysuru Road,6.5
+1546,"E286 BGS College of Engineering and Technology Mahalakshmipuram,Bangalore",IE Info.Science,32927.0,Mahalakshmi,2.5
+933,E149 Cambridge Institutute of Technology Bangalore,IE Info.Science,33082.0,Mysuru Road,8.5
+649,E102 DONBOSCO Institute of Technology Bangalore,CS Computers,33658.0,Mysuru Road,8.5
+1543,"E286 BGS College of Engineering and Technology Mahalakshmipuram,Bangalore",AI Artificial Intelligence,33694.0,Mahalakshmi,2.5
+932,E149 Cambridge Institutute of Technology Bangalore,"IC CS-IoT, Cyber Security",33989.0,Mysuru Road,8.5
+615,E098 Atria Institute of Technology Bangalore,AI Artificial Intelligence,34838.0,Mysuru Road,8.5
+1542,"E286 BGS College of Engineering and Technology Mahalakshmipuram,Bangalore","AD Artificial Intel, Data Sc",34956.0,Mahalakshmi,2.5
+562,E091 K S Institute of Technology Bangalore,AI Artificial Intelligence,36153.0,Mysuru Road,8.5
+499,E078 The Oxford College of Engineering Bangalore,IE Info.Science,36224.0,Mahalakshmi,2.5
+594,E095 AMC Engineering College Bangalore,CS Computers,36377.0,Mahalakshmi,2.5
+906,"E145 Rajarajeswari College of Engineering Kumbalagodu,Bangalore",CS Computers,37198.0,Mahalakshmi,2.5
+646,E102 DONBOSCO Institute of Technology Bangalore,"AD Artificial Intel, Data Sc",37914.0,Mysuru Road,8.5
+647,E102 DONBOSCO Institute of Technology Bangalore,"CA CS (AI, Machine Learning)",38181.0,Mysuru Road,8.5
+1256,E209 Jyothi Institute of Technology Bangalore,CS Computers,38224.0,Mysuru Road,8.5
+930,E149 Cambridge Institutute of Technology Bangalore,EC Electronics,39181.0,Mysuru Road,8.5
+603,E096 East Point College of Engineering and Technology Bangalore,CS Computers,39321.0,Mysuru Road,8.5
+1079,E173 Sai Vidya Institute of Technology Bangalore,CS Computers,39327.0,Mysuru Road,8.5
+903,"E145 Rajarajeswari College of Engineering Kumbalagodu,Bangalore",AI Artificial Intelligence,39673.0,Mahalakshmi,2.5
+622,E098 Atria Institute of Technology Bangalore,IE Info.Science,41349.0,Mysuru Road,8.5
+700,E108 Sapthagiri NPS College of Engineering Bangalore,"CA CS (AI, Machine Learning)",41520.0,Mahalakshmi,2.5
+128,"E012 Sir M.Visveswaraya Institute of Technology Hunasemaranahalli,Bangalore,",TC Telecommn.,41544.0,Yelachenahalli,4.0
+567,E091 K S Institute of Technology Bangalore,"IC CS-IoT, Cyber Security",41598.0,Mysuru Road,8.5
+1544,"E286 BGS College of Engineering and Technology Mahalakshmipuram,Bangalore",CD Computer Sc. and Design,41956.0,Mahalakshmi,2.5
+601,E096 East Point College of Engineering and Technology Bangalore,"CA CS (AI, Machine Learning)",41977.0,Mysuru Road,8.5
+591,E095 AMC Engineering College Bangalore,AI Artificial Intelligence,42192.0,Mahalakshmi,2.5
+652,E102 DONBOSCO Institute of Technology Bangalore,IE Info.Science,42219.0,Mysuru Road,8.5
+111,E011 M V J College of Engineering Bangalore,EV EC Engg(VLSI Design),42363.0,Mahalakshmi,2.5
+592,E095 AMC Engineering College Bangalore,"CA CS (AI, Machine Learning)",42441.0,Mahalakshmi,2.5
+704,E108 Sapthagiri NPS College of Engineering Bangalore,EC Electronics,42595.0,Mahalakshmi,2.5
+619,E098 Atria Institute of Technology Bangalore,DS Comp. Sc. Engg- Data Sc.,42778.0,Mysuru Road,8.5
+600,E096 East Point College of Engineering and Technology Bangalore,"AD Artificial Intel, Data Sc",43046.0,Mysuru Road,8.5
+566,E091 K S Institute of Technology Bangalore,EC Electronics,43105.0,Mysuru Road,8.5
+497,E078 The Oxford College of Engineering Bangalore,EC Electronics,43951.0,Mahalakshmi,2.5
+910,"E145 Rajarajeswari College of Engineering Kumbalagodu,Bangalore",IE Info.Science,44497.0,Mahalakshmi,2.5
+686,E106 East West Institute of Technology Bangalore,CS Computers,45359.0,Mysuru Road,8.5
+595,E095 AMC Engineering College Bangalore,DS Comp. Sc. Engg- Data Sc.,47031.0,Mahalakshmi,2.5
+554,"E088 Bangalore College of Engineering and Technology Chandapura, Bangalore",CS Computers,47222.0,Mysuru Road,8.5
+571,E092 Vemana Institute of Technology Bangalore,CS Computers,47383.0,Mysuru Road,8.5
+598,E095 AMC Engineering College Bangalore,IE Info.Science,47455.0,Mahalakshmi,2.5
+650,E102 DONBOSCO Institute of Technology Bangalore,EC Electronics,48266.0,Mysuru Road,8.5
+682,E106 East West Institute of Technology Bangalore,"AD Artificial Intel, Data Sc",48514.0,Mysuru Road,8.5
+684,E106 East West Institute of Technology Bangalore,"CA CS (AI, Machine Learning)",48625.0,Mysuru Road,8.5
+1254,E209 Jyothi Institute of Technology Bangalore,AI Artificial Intelligence,48847.0,Mysuru Road,8.5
+1314,"E222 Cambridge Institutute of Technology-North Campus Devanahalli(TQ),Bangalore",CS Computers,49316.0,Mysuru Road,8.5
+1258,E209 Jyothi Institute of Technology Bangalore,IE Info.Science,49398.0,Mysuru Road,8.5
+703,E108 Sapthagiri NPS College of Engineering Bangalore,DS Comp. Sc. Engg- Data Sc.,49473.0,Mahalakshmi,2.5
+1082,E173 Sai Vidya Institute of Technology Bangalore,IE Info.Science,49998.0,Mysuru Road,8.5
+529,E083 H.K.B.K.College of Engineering Bangalore,CS Computers,50000.0,Mahalakshmi,2.5
+718,"E111 Sri Venkateshwara College of Engineering Bettahalsur(P), Bangalore",CS Computers,50080.0,Mahalakshmi,2.5
+1222,"E203 K.S. School of Engineering And Management Mallasandra, Bangalore",CS Computers,50480.0,Mahalakshmi,2.5
+683,E106 East West Institute of Technology Bangalore,AI Artificial Intelligence,50602.0,Mysuru Road,8.5
+549,E087 Vivekananada Institute of Technology Bangalore,CS Computers,50670.0,Mysuru Road,8.5
+535,"E085 APS College of Engineering Somanahalli, Bangalore",CS Computers,50940.0,Mahalakshmi,2.5
+564,E091 K S Institute of Technology Bangalore,CD Computer Sc. and Design,51023.0,Mysuru Road,8.5
+1077,E173 Sai Vidya Institute of Technology Bangalore,"CA CS (AI, Machine Learning)",51035.0,Mysuru Road,8.5
+666,E104 Nagarjuna College of Engineering and Technology Bangalore,CS Computers,51153.0,Mysuru Road,8.5
+907,"E145 Rajarajeswari College of Engineering Kumbalagodu,Bangalore",EC Electronics,51238.0,Mahalakshmi,2.5
+569,E092 Vemana Institute of Technology Bangalore,AI Artificial Intelligence,51544.0,Mysuru Road,8.5
+596,E095 AMC Engineering College Bangalore,EC Electronics,51684.0,Mahalakshmi,2.5
+1385,"E239 East West College of Engineering Yelahanka New Town, Bangalore",CS Computers,52209.0,Mahalakshmi,2.5
+540,"E086 Sri Sairam College of Engineering(Formerly Shirdi Sai Engg) Anekal,Bangalore",AI Artificial Intelligence,52550.0,Mahalakshmi,2.5
+620,E098 Atria Institute of Technology Bangalore,EC Electronics,52565.0,Mysuru Road,8.5
+528,E083 H.K.B.K.College of Engineering Bangalore,AI Artificial Intelligence,52690.0,Mahalakshmi,2.5
+547,E087 Vivekananada Institute of Technology Bangalore,AI Artificial Intelligence,52849.0,Mysuru Road,8.5
+1434,"E255 Gandhi Institute of Technology and MNGT.,Gitam off Campus BANGALORE RURAL DIST","CA CS (AI, Machine Learning)",52964.0,Mysuru Road,8.5

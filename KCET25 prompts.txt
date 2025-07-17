@@ -1,0 +1,35 @@
+Create a SQlite database "KCET_2025" in path D:\Anant\VSCodeProjects\SQLite
+
+Now create a table with in database "KCET_2025", table name is "For_KCET25_R1" the data for the table should be taken from
+excel "KCET_R1_Cutoff_30Aug2024_Data_For_KCET2025_OE" Sheet "RawData".
+Finally check whether all data in table is as per excel.
+The table headers should be as per excel.
+Follow database/table best practice while creating it.
+Do not make any changes to the excel.
+
+So that last csv report meets the below criteria?
+Export the table "For_KCET25_R1" to csv which is in database "KCET_2025" in path D:\Anant\VSCodeProjects\SQLite, based on below criteria. Do not make any changes to original table.
+- GM category rank of 23000 to 53000, Sort ascending
+- Must have only Sl No., College Name, Course Name and GM columns with headers
+- And also only need Colleges in Bangalore, u can refer "College Name" column.
+- Add a column in export next to rank column & populate the info "Nearest metro station" and "College Distance from metro station". Use web search to know the exact location and distance.
+
+- I only want for following courses.
+AD Artificial Intel, Data Sc
+AI Artificial Intelligence
+CA CS (AI, Machine Learning)
+CB Comp. Sc. and Bus Sys.
+CC Computer and Comm. Engg.
+CD Computer Sc. and Design
+CF CS(Artificial Intel.)
+CS Computers
+CY CS- Cyber Security
+DS Comp. Sc. Engg- Data Sc.
+EC Electronics
+ES Electronics and Computer
+EV EC Engg(VLSI Design)
+IC CS-IoT, Cyber Security
+IE Info.Science
+RI Robotics and AI
+TC Telecommn.
+
